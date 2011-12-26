@@ -1,0 +1,2 @@
+This python script maintains a database of your contacts. Only names and contact numbers can be added.
+It gives a search result according to query as well as according to first name/last name character.
