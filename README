@@ -1,2 +1,18 @@
-This python script maintains a database of your contacts. Only names and contact numbers can be added.
-It gives a search result according to query as well as according to first name/last name character.
+Author : Jay Rambhia
+email : jayrambhia777@gmail.com
+Git : https://github.com/jayrambhia
+gist : https://gist.github.com/jayrambhia
+=============================================
+Name : contacts
+Repo : Contacts
+Git : https://github.com/jayrambhia/Contacts
+version 0.3
+
+A python script to maintian contacts databse.
+Features:
+    1. Contact Information: Name, Numbers, emails, birthdate, tags
+    2. Search According to
+        1. Name
+        2. First character
+        3. Tags
+        
